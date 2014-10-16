@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aja:home|Door43 (aja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aja|d43-aja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aja/archive/master.zip|d43-aja.zip]]
+
+**Recent Changes**
+{{changes>ns = aja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aja|Ethnologue data]]
+
